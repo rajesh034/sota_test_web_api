@@ -1,1 +1,0 @@
-# sota_test_web_api
